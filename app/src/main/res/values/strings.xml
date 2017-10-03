@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlideDome</string>
+    <string name="title">标题</string>
+    <string name="subtitle">副标题</string>
+</resources>
